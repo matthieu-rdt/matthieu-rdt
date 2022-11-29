@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthieu-rdt
+- 👋 Hi, I’m Matthieu
 - 👀 I'm mainly interested in IT 
 - 🌱 I’m currently learning devops tools
 - 💞️ I’m looking to collaborate on security topics
